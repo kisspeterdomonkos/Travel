@@ -1,0 +1,13 @@
+INSERT INTO `destination` (`ID`, `uticel`, `uticel_ID`, `megnevezes`, `ellatas`, `utazas`, `szallas`, `szoba`, `idotartam`, `ar`) VALUES
+(1, 'Nürnberg', 11, 'Advent Nürnbergben', 'Reggeli', 'Busz', 'Hotel***', '2 ágyas', '3 éjszaka', 89990),
+(2, 'Nürnberg', 11, 'Nürnbergi városlátogatás', 'Reggeli + vacsora', 'Busz', 'Hotel****', '2 ágyas', '2 éjszaka', 94000),
+(3, 'Drezda', 12, 'Advent Drezdában', 'Reggeli', 'Busz', 'Hotel***', '2 ágyas', '3 éjszaka', 77400),
+(4, 'Salzkammergut', 21, 'Salzkammergut hegyek gyöngyszemei', 'Reggeli', 'Busz', 'Panzió', '2 ágyas', '3 éjszaka', 99000),
+(5, 'Prága', 31, 'Advent Prágában', 'Reggeli', 'Busz', 'Hotel**', 'Szoba, 2 felnőtnek', '2 éjszaka', 62000),
+(6, 'Prága', 31, 'Prágai sörtúra', 'Voucher pubba', 'Vonat', 'Diákszállás', '12 ágyas', '2 éjszaka', 59900),
+(7, 'Prága', 31, 'Száztornyú Prága - buszos kirándulás', 'Reggeli', 'Busz', 'Hotel***', 'Standard 2 ágyas', '3 éjszaka', 82490),
+(8, 'Prága', 31, 'Hétvége Prágában', 'Reggeli', 'Busz', 'Hotel***', '2 ágyas', '2 éjszaka', 60375),
+(9, 'Magas Tátra', 41, 'Hétvége a Magas Tátrában', 'Reggeli', 'Busz', 'Panzió', '2 ágyas', '1 éjszaka', 39990),
+(10, 'Erdély', 51, 'Erdély téli arca', 'Reggeli + pálinka', 'Busz', 'Családoknál', '2-3 ágyas', '2 éjszaka', 108006),
+(11, 'Dubai', 71, 'Szilveszter Dubaiban', 'Reggeli + vacsora', 'Repülő', 'Hotel****', '2 ágyas', '7 éjszaka', 690000),
+(12, 'Dubai', 71, 'Dubai körutazás', 'Reggeli', 'Repülő', 'Hotel****', 'Standard 2 ágyas', '7 éjszaka', 449990);
